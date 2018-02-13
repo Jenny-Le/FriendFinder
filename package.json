@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Jenny-Le/FriendFinder#readme",
   "dependencies": {
+    "mysql": "^2.15.0",
     "require": "^2.4.20"
   },
   "devDependencies": {
