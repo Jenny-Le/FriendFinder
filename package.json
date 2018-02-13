@@ -1,0 +1,26 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "find someone for you!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jenny-Le/FriendFinder.git"
+  },
+  "author": "jenny le",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jenny-Le/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/Jenny-Le/FriendFinder#readme",
+  "dependencies": {
+    "require": "^2.4.20"
+  },
+  "devDependencies": {
+    "express": "^4.16.2"
+  }
+}
