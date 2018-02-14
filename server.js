@@ -4,7 +4,7 @@ var path = require('path');
 var fs = require('fs');
 
 var app = express();
-var PORT = process.env.port || 3000;
+var PORT = process.env.port || 8080;
 // var PORT = 3000;
 
 app.use(bodyParser.json());
